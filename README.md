@@ -20,7 +20,7 @@ To get started with SoundSortGenius, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/SoundSortGenius.git
+    git clone https://github.com/Raman0330/SoundSortGenius.git
     cd SoundSortGenius
     ```
 
